@@ -1,0 +1,6 @@
+mujoco>=3.2,<4
+numpy>=1.26,<3
+pandas>=2.0,<4
+pyyaml>=6.0
+optuna>=3.6
+cmaes>=0.10

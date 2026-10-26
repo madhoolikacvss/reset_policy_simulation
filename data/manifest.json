@@ -1,0 +1,355 @@
+{
+ "seed": 0,
+ "short_below": 380,
+ "unused_in_pool": {
+  "full": 157,
+  "short": 48
+ },
+ "frac_short_in_pool": 0.239,
+ "skipped": [
+  [
+   "episode_0001_motors.csv",
+   "only 10 valid rows"
+  ],
+  [
+   "episode_0033_motors.csv",
+   "only 10 valid rows"
+  ],
+  [
+   "episode_0073_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0074_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0075_motors.csv",
+   "only 2 valid rows"
+  ],
+  [
+   "episode_0076_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0077_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0078_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0081_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0082_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0083_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0084_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0085_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0086_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0087_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0088_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0089_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0090_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0091_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0092_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0093_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0094_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0095_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0107_motors.csv",
+   "only 23 valid rows"
+  ],
+  [
+   "episode_0108_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0110_motors.csv",
+   "only 28 valid rows"
+  ],
+  [
+   "episode_0137_motors.csv",
+   "only 24 valid rows"
+  ],
+  [
+   "episode_0167_motors.csv",
+   "only 24 valid rows"
+  ],
+  [
+   "episode_0172_motors.csv",
+   "only 23 valid rows"
+  ],
+  [
+   "episode_0201_motors.csv",
+   "only 14 valid rows"
+  ],
+  [
+   "episode_0206_motors.csv",
+   "only 15 valid rows"
+  ],
+  [
+   "episode_0210_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0211_motors.csv",
+   "only 22 valid rows"
+  ],
+  [
+   "episode_0216_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0219_motors.csv",
+   "only 3 valid rows"
+  ],
+  [
+   "episode_0233_motors.csv",
+   "only 4 valid rows"
+  ],
+  [
+   "episode_0236_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0238_motors.csv",
+   "only 28 valid rows"
+  ],
+  [
+   "episode_0240_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0268_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0269_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0270_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0271_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0272_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0273_motors.csv",
+   "only 0 valid rows"
+  ],
+  [
+   "episode_0288_motors.csv",
+   "only 17 valid rows"
+  ],
+  [
+   "episode_0298_motors.csv",
+   "only 9 valid rows"
+  ],
+  [
+   "episode_0303_motors.csv",
+   "only 19 valid rows"
+  ],
+  [
+   "episode_0308_motors.csv",
+   "only 12 valid rows"
+  ],
+  [
+   "episode_0317_motors.csv",
+   "only 5 valid rows"
+  ],
+  [
+   "episode_0318_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0319_motors.csv",
+   "only 18 valid rows"
+  ],
+  [
+   "episode_0321_motors.csv",
+   "only 11 valid rows"
+  ],
+  [
+   "episode_0324_motors.csv",
+   "only 29 valid rows"
+  ],
+  [
+   "episode_0326_motors.csv",
+   "only 2 valid rows"
+  ],
+  [
+   "episode_0331_motors.csv",
+   "only 4 valid rows"
+  ],
+  [
+   "episode_0336_motors.csv",
+   "only 8 valid rows"
+  ],
+  [
+   "episode_0342_motors.csv",
+   "only 22 valid rows"
+  ],
+  [
+   "episode_0344_motors.csv",
+   "only 4 valid rows"
+  ],
+  [
+   "episode_0345_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0346_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0347_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0348_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0349_motors.csv",
+   "only 1 valid rows"
+  ],
+  [
+   "episode_0350_motors.csv",
+   "only 1 valid rows"
+  ]
+ ],
+ "train": [
+  "episode_0008_motors.csv",
+  "episode_0013_motors.csv",
+  "episode_0028_motors.csv",
+  "episode_0029_motors.csv",
+  "episode_0041_motors.csv",
+  "episode_0043_motors.csv",
+  "episode_0063_motors.csv",
+  "episode_0096_motors.csv",
+  "episode_0099_motors.csv",
+  "episode_0102_motors.csv",
+  "episode_0112_motors.csv",
+  "episode_0118_motors.csv",
+  "episode_0120_motors.csv",
+  "episode_0136_motors.csv",
+  "episode_0146_motors.csv",
+  "episode_0154_motors.csv",
+  "episode_0159_motors.csv",
+  "episode_0178_motors.csv",
+  "episode_0180_motors.csv",
+  "episode_0185_motors.csv",
+  "episode_0186_motors.csv",
+  "episode_0192_motors.csv",
+  "episode_0212_motors.csv",
+  "episode_0215_motors.csv",
+  "episode_0222_motors.csv",
+  "episode_0224_motors.csv",
+  "episode_0228_motors.csv",
+  "episode_0230_motors.csv",
+  "episode_0239_motors.csv",
+  "episode_0264_motors.csv",
+  "episode_0265_motors.csv",
+  "episode_0267_motors.csv",
+  "episode_0280_motors.csv",
+  "episode_0284_motors.csv",
+  "episode_0293_motors.csv",
+  "episode_0295_motors.csv",
+  "episode_0306_motors.csv",
+  "episode_0315_motors.csv",
+  "episode_0338_motors.csv",
+  "episode_0340_motors.csv"
+ ],
+ "val": [
+  "episode_0002_motors.csv",
+  "episode_0005_motors.csv",
+  "episode_0019_motors.csv",
+  "episode_0020_motors.csv",
+  "episode_0022_motors.csv",
+  "episode_0027_motors.csv",
+  "episode_0037_motors.csv",
+  "episode_0060_motors.csv",
+  "episode_0070_motors.csv",
+  "episode_0072_motors.csv",
+  "episode_0097_motors.csv",
+  "episode_0121_motors.csv",
+  "episode_0123_motors.csv",
+  "episode_0126_motors.csv",
+  "episode_0128_motors.csv",
+  "episode_0129_motors.csv",
+  "episode_0132_motors.csv",
+  "episode_0135_motors.csv",
+  "episode_0148_motors.csv",
+  "episode_0153_motors.csv",
+  "episode_0164_motors.csv",
+  "episode_0166_motors.csv",
+  "episode_0176_motors.csv",
+  "episode_0182_motors.csv",
+  "episode_0189_motors.csv",
+  "episode_0196_motors.csv",
+  "episode_0197_motors.csv",
+  "episode_0199_motors.csv",
+  "episode_0226_motors.csv",
+  "episode_0227_motors.csv",
+  "episode_0234_motors.csv",
+  "episode_0246_motors.csv",
+  "episode_0259_motors.csv",
+  "episode_0261_motors.csv",
+  "episode_0279_motors.csv",
+  "episode_0282_motors.csv",
+  "episode_0283_motors.csv",
+  "episode_0307_motors.csv",
+  "episode_0313_motors.csv",
+  "episode_0327_motors.csv"
+ ]
+}
